@@ -1,0 +1,16 @@
+## T2 Aristotle Class System Defender ##
+
+V-shift 1, Beam 0, Torpedo 0, EW 4, Trade 0
+
+Frame OOO\
+Data OOO\
+Heat OOO
+
+**Point Defense System:** base defense 2 against torpedoes\
+**Vector Randomizer:** base defense 2 against beams\
+**Attack an Additional Track:** Electronic warfare attacks damage Data and Heat\
+*Boarding party*\
+*Defending the homeland*\
+*Hungry for spare parts*\
+*Sensitive communication instruments*\
+*Overwhelming computer viruses*

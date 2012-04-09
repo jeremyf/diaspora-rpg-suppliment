@@ -1,0 +1,17 @@
+## T2 Socrates Class Assault Platform ##
+
+V-shift 2, Beam 0, Torpedo 3, EW 3, Trade 0
+
+Frame OOO\
+Data OOO\
+Heat OOO
+
+**Vector Randomizer:** base defense 2 against beams.\
+**Point Defense:** base defense 2 against torpedoes.\
+**Slipstream drive:** can traverse slipstreams.\
+**Attack a different track:** Torpedoes attacks damage Heat instead of the Frame.\
+*Confounding Missives*\
+*Fragile*\
+*Hungry for Spare Parts*\
+*Out of ammo*\
+*Tactical Mircowave Torpedoes*

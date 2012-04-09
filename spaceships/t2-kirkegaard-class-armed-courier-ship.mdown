@@ -1,0 +1,16 @@
+## T2 Kirkegaard Class Armed Courier Ship ##
+
+V-shift 4, Beams 2, Torpedo 0, EW 0, Trade 2
+
+Hull OO\
+Data OO\
+Heat OOO OOO
+
+**Point Defense**: base defense 2 against torpedoes\
+**Firewall**: base defense 2 against electronic warfare\
+**Slipdrive**: can traverse slipstreams.\
+*The mail must get through*\
+*Fragile*\
+*Stay out of enemy hands*\
+*Desperate burn to escape*\
+*Low on r-mass*

@@ -1,0 +1,10 @@
+## T1 Bishop Class Fighter ##
+
+V-shift 3, Beam 1\*, Torpedo 0, EW 0, Trade 0\
+\* Effective level 2 with default crew
+
+Frame O\
+Data O\
+Heat OO
+
+*Faith is our copilot*
