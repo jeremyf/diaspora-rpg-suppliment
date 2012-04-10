@@ -1,4 +1,4 @@
-All contents within with files of extension .mdown within the following 
+All contents within with files of extension .textile within the following 
 subdirectories are considered open game content as per the 
 open-game-license.txt file:
 

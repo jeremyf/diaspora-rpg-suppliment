@@ -1,0 +1,15 @@
+h2.  T2 Hobbes Class Heavy Cruiser 
+
+V-shift 3, Beams 3, Torpedo 3, EW 3, Trade 0
+
+Hull OOOO
+Data OOO
+Heat OOO
+
+**Slipdrive:** can traverse slipstream
+**High Capacity Magaizine:** Torpedo does not get the automatic “Out of ammo” aspect.
+*Built to last*
+*Stay out of enemy hands*
+*Loaded with weapons*
+*Standing in the line of fire*
+*Nasty, brutish, and short*

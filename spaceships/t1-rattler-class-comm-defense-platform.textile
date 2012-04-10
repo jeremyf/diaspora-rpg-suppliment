@@ -1,0 +1,15 @@
+h2.  T1 Rattler Class Comm Defense Platform 
+
+V-shift 3, Beam 0, Torpedo 0, EW 3, Trade 0
+
+Frame OO
+Data OOO
+Heat OOO
+
+**Vector Randomizer**: base defense 2 against beams
+**Point Defense**: base defense 2 against torpedoes
+*Antenna everywhere*
+*Call us “procurement specialists”*
+*Fragile*
+*This snake has teeth*
+*Making trouble from afar*

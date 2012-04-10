@@ -1,0 +1,27 @@
+**Broadband Guidance Jamming**:** May make EW skill check at -1 as defense against torpedoes. 1 bp.
+
+**Expanded Trade Capacity**: -1 V-shift, +1 Trade. 0 bp.
+
+**Expanded Beams Array**: -1 V-shift, +1 Beams. 0 bp.
+
+**Expanded Torpedo Array**: -1 V-shift, +1 Torpedoes. 0 bp.
+
+**Explosive Beams**: Beam weapons may attack all ships in a given band. 2 bp.
+
+**Explosive Torpedoes**: Torpedoes may attack all ships in a given band. 2 bp.
+
+**Hardened**: Choose one stress track; when choosing consequences to mitigate damage against the chosen track use the following schedule: 2/3/4.  1 bp.
+
+**Improved Armor**: +1 Frame stress track, +1 Cost, -1 to Maintenance checks. 0 bp. (Not available for Wargaming)
+
+**Improved Heat Sinks**: +1 Heat stress track, +2 Cost, -1 to Maintenance checks. 0 bp. (Not available for Wargaming)
+
+**Improved Computer Systems**: +1 Data stress track, +1 Cost, -1 to Maintenance checks. 0 bp. (Not available for Wargaming)
+
+**Penetrating Beams**: Beams inflict one more point of stress on a successful attack. 1 bp.
+
+**Penetrating Torpedoes**: Torpedoes inflict one more point of stress on a successful attack. 1 bp.
+
+**Penetrating EW**: EW inflict one more point of data stress on a successful attack. 1 bp.
+
+**Prototype**: Choose an aspect, it is free-taggable once per encounter by your opponents. -3 bp.

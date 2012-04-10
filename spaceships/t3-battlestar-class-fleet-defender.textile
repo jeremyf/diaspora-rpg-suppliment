@@ -1,0 +1,17 @@
+h2.  T3 Battlestar Class Fleet Defender 
+
+V-shift 1, Beam 5, Torpedo 0, EW 0, Trade 5
+
+Frame OOO OOO O
+Data OOO
+Heat OOO O
+
+**Overwatch**: may fire its Beam defensively against missiles targeting any ship it is tethered with
+**Extended Range**: base defense 2 against EW
+**Firewall**: base defense 2 against EW
+**T3 Slipdrive**
+*Huge*
+*Defending the fleet*
+*This old girl has a few tricks*
+*Unconventional computers*
+*Built to last*

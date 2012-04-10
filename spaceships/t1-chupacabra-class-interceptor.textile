@@ -1,10 +1,10 @@
-## T1 Chupacabra Class Interceptor ##
+h2.  T1 Chupacabra Class Interceptor 
 
-V-shift 3, Beam 1\*, Torpedo 1\*, EW 1\*, Trade 0\
-\* Effective level 2 with default crew
+V-shift 3, Beam 1§, Torpedo 1§, EW 1§, Trade 0
+§ Effective level 2 with default crew
 
-Frame OOO O\
-Data OOO\
+Frame OOO O
+Data OOO
 Heat OOO O
 
 *Boarding party*

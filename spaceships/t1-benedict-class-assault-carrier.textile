@@ -1,0 +1,19 @@
+h2.  T1 Benedict Class Assault Carrier 
+
+V-shift 1, Beam 1*, Torpedo 0, EW 0, Trade 3**
+* Effective level 2 with default crew
+** Reduced to 0 with 3 fighters
+
+Frame OOO
+Data OOO
+Heat OOO
+
+**Vector Randomizer:** base defense 2 against beams
+**Firewall:** base defense 2 against electronic warfare
+**Point Defense:** base defense 2 against torpedoes
+**Carries Fighters:** has upto 3 Bishop Class Fighters
+*Faith is our copilot*
+*Probably a bad idea*
+*Huge*
+*Swarm of fighters*
+*Sure does look like a cargo hauler*
