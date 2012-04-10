@@ -1,0 +1,17 @@
+Diaspora RPG Supplement
+=======================
+
+Welcome to the fan created Diaspora RPG supplement.  Diaspora is created by 
+[VSCA](http://vsca.ca/).  And yes, I misspelled supplement in the Github repo.
+
+My vision for this repository is to collect various elements for the Diaspora 
+game.
+
+Declaration of Open Game Content
+--------------------------------
+
+All contents with files of extension .textile within the following 
+subdirectories are considered open game content as per the 
+open-game-license.txt file:
+
+* spaceships
