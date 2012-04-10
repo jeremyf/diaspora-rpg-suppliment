@@ -7,10 +7,10 @@ Frame OOO
 Data OOO
 Heat OOO
 
-**Civilian**
-**Firewall:** base defense 2 against electronic warfare
-*Faith in the Profit*
-*Huge*
-*Cargo hauler*
-*Hide behind the escort*
-*Steers like a cow*
+*Civilian*
+*Firewall:* base defense 2 against electronic warfare
+_Faith in the Profit_
+_Huge_
+_Cargo hauler_
+_Hide behind the escort_
+_Steers like a cow_

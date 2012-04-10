@@ -1,4 +1,4 @@
-h2.  T1 Chupacabra Class Interceptor 
+h2. T1 Chupacabra Class Interceptor 
 
 V-shift 3, Beam 1§, Torpedo 1§, EW 1§, Trade 0
 § Effective level 2 with default crew
@@ -7,8 +7,8 @@ Frame OOO O
 Data OOO
 Heat OOO O
 
-*Boarding party*
-*Call us “procurement specialists”*
-*Out of ammo*
-*Protecting the homeland*
-*We’ve made a few custom modifications*
+_Boarding party_
+_Call us “procurement specialists”_
+_Out of ammo_
+_Protecting the homeland_
+_We’ve made a few custom modifications_
