@@ -1,0 +1,16 @@
+h2. T3 Ephemera Class Patrol Cruiser
+
+V-shift 4, Beam 4, Torpedo 0, EW 4, Trade 0
+
+Frame OOO
+Data OOO
+Heat OOO OO
+
+*Slipdrive:* can traverse slipstreams.
+*Vector randomizer:* base defense 2 against beams
+*Overwatch:* may use its beams in defense of friendly vessels.
+_To serve and protect_
+_Not always what it seems_
+_Baffling high technology drives_
+_Costly_
+_Some parts left over after maintenance_

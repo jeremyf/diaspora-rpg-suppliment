@@ -1,0 +1,18 @@
+h2. T3 Myriad Class Forward Refindery
+
+V-shift 3, Beam 0, Torpedo 0, EW 0, Trade 5
+
+Frame OOO O
+Data OOO
+Heat OOO OOO
+
+*Civilian:* can be piloted without military training.
+*Slipdrive:* can traverse slipstreams.
+*Interface vehicle:* has a separate vehicle capable of landing on planet surfaces.
+_Cargo hauler_
+_Fragile (lots of heat sinks)_
+_Not all these parts are factory spec_
+_Most of this ship isn't essential_
+_Super efficient power system_
+
+*Special rules:* the Myriad class gets its full Trade value only when it is operat- ing as a refinery. When operating as a cargo hauler its Trade value goes down to 3. If operating as both cargo and passenger system, and has its gravity module still working, it operates at Trade 4.
